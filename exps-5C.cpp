@@ -1,5 +1,5 @@
-#Shivendra Dwivedi
-#23070123122
+//Shivendra Dwivedi
+//23070123122
 #include<iostream>
 using namespace std;
 
