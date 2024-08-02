@@ -18,9 +18,8 @@ It is used for doing mathematical calculations among some given values.
 
 ### 1.
 ```
-//Saurabh
-//23070123166
-//entc b2
+//Shivendra Dwivedi
+//23070123122
 #include <iostream>
 using namespace std;
 int main() 
@@ -40,9 +39,8 @@ int main()
 
 ### 2.
 ```
-//Saurabh
-//23070123166
-//entc B2
+//Shivendra Dwivedi
+//23070123122
 //experiment 5
 #include <iostream>
 using namespace std;
@@ -70,9 +68,8 @@ int main()
 
 ### 3.
 ```
-//Saurabh
-//23070123166
-//entc B2
+//Shivendra Dwivedi
+//23070123122
 //experiment 5
 #include<iostream>
 using namespace std;
@@ -113,9 +110,8 @@ int main() {
 
 ### 4.
 ```
-//Saurabh
-//23070123166
-//entc B2
+//Shivendra Dwivedi
+//23070123122
 //experiment 5
 #include<iostream>
 using namespace std;
